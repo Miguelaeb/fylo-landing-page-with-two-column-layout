@@ -472,74 +472,6 @@ img {
     }
 }
 
-@media screen and (max-width: 550px) {
-
-    .nav__logo img {
-        width: 120px;
-    }
-
-    .nav__links a {
-        margin: 0 0 0 10px;
-        font-weight: 400;
-    }
-
-    .header__title {
-        font-size: 1.8rem;
-        line-height: 3rem;
-        margin-right: 0rem;
-    }
-
-    .first__input {
-        width: 100%;
-        margin-bottom: 1rem;
-    }
-    
-    .second__input {
-        width: 100%;
-    }
-
-    .curve {
-        background-image: url('../images/bg-curve-mobile.svg');
-        height: 50px;
-    }
-
-    .cta__title {
-        font-size: 1.4rem;
-    }
-
-    .cta__description {
-        margin-top: 20px;
-    }
-
-    .card {
-        width: 100%;
-    }
-
-    .cta__section__img {
-        width: 100%;
-    }
-
-    .access__text {
-        width: 100%;
-    }
-
-    .access__description__container {
-        padding: 0 2.1rem;
-    }
-
-    .access__mail {
-        width: 90%;
-    }
-
-    .first__bottom__input {
-        width: 100%;
-    }
-
-    .second__bottom__input {
-        width: 100%;
-    }
-}
-
 @media screen and (max-width: 450px) {
 
     .header__section {
@@ -557,16 +489,18 @@ img {
     }
 
     .header__title {
-        font-size: 1.5rem;
+        font-size: 1.8rem;
         line-height: 2.5rem;
     }
 
     .header__description {
         font-size: 1rem;
+        margin: 0 10px 30px 10px;
     }
 
     .cta__content {
         padding: 20px;
+        margin-bottom: 80px;
     }
 
     .cta__title {
