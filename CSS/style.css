@@ -110,7 +110,7 @@ img {
     display: flex;
     align-items: center;
     gap: 40px;
-    padding: 50px;
+    padding: 0 0 100px 50px;
     margin: 0;
     position: relative;
     background-color: #f9f8fe;
@@ -197,7 +197,6 @@ img {
     display: flex;
     gap: 200px;
     padding: 80px 50px;
-    margin-top: 3rem;
     color: var(--Light-Grayish-Blue);
     background-color: var(--Desaturated-Blue);
 }
