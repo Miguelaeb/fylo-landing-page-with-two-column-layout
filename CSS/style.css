@@ -541,7 +541,7 @@ img {
     }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 450px) {
 
     .header__section {
         padding: 30px 20px;
